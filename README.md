@@ -8,5 +8,4 @@ You should set the timer to 30 minutes or whatever your alloted "study time" is.
 
 ## future features
 You could easily adapt this code to have it remind you when your break is over, as well. For example, 30 minute "stop studying" reminders, and 30 minute "start", offset by five minutes.
-This would allow for "pomodoro" type studying, where it's 25 minutes on, 5 minutes off. It would be easier to code this way than to code in 25 minute "start" and 5 minute "stop", but less flexible without maths. 
- 
+This would allow for "pomodoro" type studying, where it's 25 minutes on, 5 minutes off. It would be easier to code this way than to code in 25 minute "start" and 5 minute "stop", but less flexible without maths.
